@@ -1,0 +1,23 @@
+{
+  "name": "pocketsphinx.js",
+  "version": "0.0.1",
+  "description": "PocketSphinx.js --------------- ### Speech Recognition in JavaScript and WebAssembly",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webaverse/pocketsphinx.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webaverse/pocketsphinx.js/issues"
+  },
+  "homepage": "https://github.com/webaverse/pocketsphinx.js#readme"
+}
