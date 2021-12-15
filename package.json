@@ -1,5 +1,5 @@
 {
-  "name": "pocketsphinx.js",
+  "name": "pocketsphinx-web",
   "version": "0.0.1",
   "description": "PocketSphinx.js --------------- ### Speech Recognition in JavaScript and WebAssembly",
   "main": "index.js",
